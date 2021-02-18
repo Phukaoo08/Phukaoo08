@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+⚡ I'm currently learning in Faculty of Engineering at King Mongkut's Institute of Technology Ladkrabang
+<!-- 
 **Phukaoo08/Phukaoo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
