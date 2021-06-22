@@ -13,8 +13,8 @@
 
 <br/>
 
-🔥🔥🔥 Do your best and keep moving ! 🔥🔥🔥
-🔥🔥🔥 Failed -> make you stronger // Success -> make your pride 🔥🔥🔥
+<!-- 🔥🔥🔥 Do your best and keep moving ! 🔥🔥🔥
+🔥🔥🔥 Failed -> make you stronger // Success -> make your pride 🔥🔥🔥 -->
 <!-- 
 **Phukaoo08/Phukaoo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
