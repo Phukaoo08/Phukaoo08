@@ -2,7 +2,9 @@
 
 ⚡ I'm currently learning in Faculty of Engineering at King Mongkut's Institute of Technology Ladkrabang <br/>
 💚 I love to cook and playing football. <br/>
-📫 Contact me! : phattaraphat@hotmail.com
+📫 Contact me! : phattaraphat@hotmail.com <br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Phukaoo08&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 ## Get in Touch (づ￣ ³￣)づ
 🌞 [facebook](https://www.facebook.com/phattaraphat.chaiamornvate/)
