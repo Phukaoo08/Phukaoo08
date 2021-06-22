@@ -13,7 +13,6 @@
 
 <br/>
 
-#### Quotes  ̿̿ ̿̿ ̿̿ ̿'̿'\̵͇̿̿\з= ( ▀ ͜͞ʖ▀) =ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿
 🔥🔥🔥 Do your best and keep moving ! 🔥🔥🔥
 🔥🔥🔥 Failed -> make you stronger // Success -> make your pride 🔥🔥🔥
 <!-- 
