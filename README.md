@@ -1,7 +1,7 @@
 # Hello I'm Phattaraphat, Welcome to my Github profile ;) 
 
 ⚡ I'm currently learning in Faculty of Engineering at King Mongkut's Institute of Technology Ladkrabang <br/>
-💚 I love to cook and playing football.
+💚 I love to cook and playing football. <br/>
 📫 Contact me! : phattaraphat@hotmail.com
 
 ## Get in Touch (づ￣ ³￣)づ
